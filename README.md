@@ -33,6 +33,8 @@ To identify patterns and trends in employee attrition and provide actionable ins
 
 
 📷 Dashboard Preview
+<img width="997" height="803" alt="dashboard" src="https://github.com/user-attachments/assets/668edb07-fc50-488b-abff-197eaf40c1bc" />
+
 
 
 🚀 Conclusion
